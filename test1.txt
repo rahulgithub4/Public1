@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is B648-0859
-
- Directory of C:\Users\pankaj\Desktop\myproject
-
-11/07/2022  01:24 PM    <DIR>          .
-11/07/2022  01:24 PM    <DIR>          ..
-11/07/2022  01:24 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  58,950,250,496 bytes free
+change 1
